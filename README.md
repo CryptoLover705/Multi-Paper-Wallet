@@ -1,3 +1,3 @@
 # Multi-Paper-Wallet
 
-Currently supports `BTC, BCH, DOGE, GLOV, LTC, NYG, SCT`
+Currently supports `BTC, BCH, DOGE, GLOV, LTC, NYC3, NYG, SCT`
